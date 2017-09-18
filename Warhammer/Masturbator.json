@@ -1,0 +1,24 @@
+{
+"CharachterInfo": [
+
+
+{
+"id": "1",
+"name": "Masturbator",
+"race": "Elf",
+"gender": "male",
+"careerClass": "careerClass",
+"alignment": "alignment",
+"age": "150 years",
+"height": "185cm",
+"weight": "85kg",
+"hair": "not bald",
+"eyes": "brown eyes",
+"description": "cool dude",
+"cerrentCareer": "kaplan",
+"careerPath": "up to mage",
+"careerExits": "oberleutnant magik",
+
+},
+]
+}
